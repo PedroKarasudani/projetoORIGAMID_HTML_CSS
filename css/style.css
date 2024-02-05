@@ -11,9 +11,11 @@
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
 
-/* BICICLETAS */
 @import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
+
+/* BICICLETA */
+@import "./bicicleta/bicicleta.css";
 
 /* Ultilidade */
 @import "./ultilidades/componentes.css";
