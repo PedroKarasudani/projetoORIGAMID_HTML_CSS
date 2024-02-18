@@ -37,3 +37,6 @@
 
 /* TERMOS */
 @import "./termos/termos.css";
+
+
+/* OTIMIZACAO CSS (cleancss -o ./css/style.min.css ./css/style.css --with-rebase>
